@@ -3,24 +3,21 @@ Ch17_Orpilla_Exer1.cpp -
 Ch17_Orpilla_Exer2.cpp - 
 Ch17_Orpilla_Exer3.cpp - 
 Ch17_Orpilla_Exer4.cpp - 
-Ch17_Orpilla_Extra1.cpp - 
+Ch17_Orpilla_Extra1.cpp - Generates a random number from 1-100 and has the user guess it.
 Ch17_Orpilla_FibonacciFunct.cpp - 
 Ch17_Orpilla_LongQuiz1.cpp - 
 Ch17_Orpilla_PrimeFunct.cpp - 
 Ch17_Orpilla_Quiz1.cpp - 
 Ch17_Orpilla_cs2 qtr4 codexerfinal.cpp - 
-Descriptions
-EvenNumbersM-N(V2).cpp
-Extra2.cpp
-Extra3.cpp
-Extra4.cpp
-FahreheitCelsiusBoolean2.0.cpp
-FibonacciSequence.cpp
-Hellow Word.cpp
-OrpillaExtra1.cpp
-Orpillaexer6.cpp
-Xtra2.cpp
-mygreatestcreation.cpp
-numfactors.cpp
-primefactors.cpp
-salitan.cpp 
+EvenNumbersM-N(V2).cpp - 
+Extra2.cpp - 
+Extra4.cpp - 
+FahreheitCelsiusBoolean2.0.cpp - 
+FibonacciSequence.cpp - Given input n, the first n terms of the Fibonacci Sequence will be shown.
+Hellow Word.cpp - First C++ program. Outputs Hello World.
+OrpillaExtra1.cpp - Given inputs a & b, a will have 2 added to it, then the result doubled. The process will occur b times.
+Orpillaexer6.cpp - User inputs elements of an array, then the smallest and largest elements are shown.
+Xtra2.cpp - 
+mygreatestcreation.cpp - 
+numfactors.cpp - 
+salitan.cpp - Adds 2 members of a given array, given user input.
