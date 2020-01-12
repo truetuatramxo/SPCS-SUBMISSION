@@ -6,7 +6,6 @@ Programmer: <firstname midinitial surname>
 Section: <section name>hjuyuy
 Date: dd monthname yyyy
 */
-//note: as of now, only temperature works.
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
@@ -390,7 +389,7 @@ int main (){
             else if (convert=='K'&&convert2=='F'){
                 cout<<"Input the temperature in Kelvin."<<endl;
                 cin>>conversion;
-                cout<<"Your inputted temperature in Fahrenheit is "<<1.8*(conversion+273.15)+32<<" degrees Fahrenheit."<<endl;
+                cout<<"Your inputted temperature in Fahrenheit is "<<1.8*(conversion-273.15)+32<<" degrees Fahrenheit."<<endl;
             }
             else if (convert=='F'&&convert2=='K'){
                 cout<<"Input the temperature in Fahrenheit."<<endl;
