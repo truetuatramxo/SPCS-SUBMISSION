@@ -1,23 +1,18 @@
 A short description of each file.
-Ch17_Orpilla_Exer1.cpp - 
-Ch17_Orpilla_Exer2.cpp - 
-Ch17_Orpilla_Exer3.cpp - 
-Ch17_Orpilla_Exer4.cpp - 
+Ch17_Orpilla_Exer1.cpp - Uses insertion sort to sort 10 user-inputted values.
+Ch17_Orpilla_Exer4.cpp - Either outputs the square roots of 1-36, or processes basic arithmetic between 2 user-inputted nos.
 Ch17_Orpilla_Extra1.cpp - Generates a random number from 1-100 and has the user guess it.
-Ch17_Orpilla_FibonacciFunct.cpp - 
-Ch17_Orpilla_LongQuiz1.cpp - 
-Ch17_Orpilla_PrimeFunct.cpp - 
-Ch17_Orpilla_Quiz1.cpp - 
-Ch17_Orpilla_cs2 qtr4 codexerfinal.cpp - 
-EvenNumbersM-N(V2).cpp - 
-Extra2.cpp - 
-Extra4.cpp - 
-FahreheitCelsiusBoolean2.0.cpp - 
+Ch17_Orpilla_FibonacciFunct.cpp - Outputs the nth term of the Fibonacci sequence.
+Ch17_Orpilla_LongQuiz1.cpp - Outputs first n prime terms of the Fibonacci sequence.
+Ch17_Orpilla_PrimeFunct.cpp - Outputs all prime numbers from 2-101. 
+Ch17_Orpilla_cs2 qtr4 codexerfinal.cpp - A converter for time, money, temperature, distance, mass, and volume.
+EvenNumbersM-N.cpp - Outputs sum of all even numbers from user inputs M-N.
+Extra4.cpp - Gets the GCF of 2 user-inputted nos.
+FahreheitCelsiusBoolean2.0.cpp - Converts a user-given temperature in Celsius to Fahrenheit, Kelvin, or both.
 FibonacciSequence.cpp - Given input n, the first n terms of the Fibonacci Sequence will be shown.
 Hellow Word.cpp - First C++ program. Outputs Hello World.
 OrpillaExtra1.cpp - Given inputs a & b, a will have 2 added to it, then the result doubled. The process will occur b times.
 Orpillaexer6.cpp - User inputs elements of an array, then the smallest and largest elements are shown.
-Xtra2.cpp - 
-mygreatestcreation.cpp - 
-numfactors.cpp - 
+numfactors.cpp - Outputs the number of factors of a user-given number.
 salitan.cpp - Adds 2 members of a given array, given user input.
+seconds.cpp - Converts user-inputted hours, minutes, and seconds into seconds.
