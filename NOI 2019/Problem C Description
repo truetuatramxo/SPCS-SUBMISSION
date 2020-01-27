@@ -1,0 +1,70 @@
+C. Partial Reduplication
+time limit per test
+3 seconds
+memory limit per test
+512 megabytes
+input
+standard input
+output
+standard output
+
+Reduplication is an interesting linguistic phenomenon through which words are formed. A prominent kind of reduplication is called partial reduplication, which occurs when a part of the the root or stem of the word is repeated in order to produce a new word.
+
+English has several examples of partial reduplication, like super duper, easy peasy, hokey pokey, or walkie-talkie, but it is not a prominent feature of the language. In this respect it is similar to many Indo-European languages, perhaps because this rarely occurred in Proto-Indo-European nouns.
+
+On the other hand, reduplication is a notable feature of Austronesian languages, where it is used to both create vocabulary and serve a grammatical purpose. Tagalog, being an Austronesian language, has multiple examples. For example, some verbs are conjugated through partial reduplication; laro, to play, becomes naglalaro, playing. The vocabulary also has several examples, like halakhak, to laugh, or pamaypay, a fan. Many will be familiar with neologisms such as nahulogloglog, to fall in a particularly surprising manner.
+
+Partial reduplication can be observed even in places such as karenderyas. For example, a certain karenderya serves a dish called TJsilogsilogloglog. The word is formed through partial reduplication of the following roots:
+
+- one serving of Truly Juicy hotdog, which is abbreviated as "TJ",
+
+- two servings of sinangag, fried rice, which is abbreviated as "si",
+
+- four servings of itlog, egg, which is abbreviated as "log".
+
+The karenderya serves many other dishes too, like TJTJsilogsilogloglog, TJsiloglog, or silogsilog. The names of these dishes are constructed by putting several of the abbreviations "TJ", "si", and "log" together, in some order, to make the name. Given the name of such a dish, determine how many servings of hotdog, fried rice, and egg there are.
+Input
+
+The first line of input contains t
+
+, the number of test cases.
+
+Each test case consists of an integer n
+, followed by a space, followed by a string s of length n
+
+.
+Output
+
+For each test case, output one line containing three space-separated integers: the number of servings of hotdog, fried rice, and egg there are in the dish, respectively.
+Scoring
+
+1≤t≤105
+
+1≤n≤105
+
+The sum of n
+over all test cases in a single file is less than 105
+
+.
+
+The string s
+
+is guaranteed to be the valid name of a dish.
+
+Subtask 1 (10 points):
+
+1≤n≤10
+
+The dish has no servings of fried rice or egg.
+
+Subtask 2 (20 points):
+
+The dish has no servings of fried rice or egg.
+
+Subtask 3 (30 points):
+
+The dish has no servings of egg.
+
+Subtask 4 (40 points):
+
+No additional restrictions.
