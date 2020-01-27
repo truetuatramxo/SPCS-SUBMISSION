@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A2 {
+public class A {
     public static void main(String args[]){
         int[] heights = new int[4];
         int h;
