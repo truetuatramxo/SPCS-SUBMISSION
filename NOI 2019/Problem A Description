@@ -1,0 +1,60 @@
+Provides a description of the coding problem solved in NOI.
+A. Vincent Adultman
+time limit per test
+1 second
+memory limit per test
+512 megabytes
+input
+standard input
+output
+standard output
+
+Vincent Adultman and his three friends – Anthony Matureperson, Rene Grownindividual, and Pierre Grandhomme – want to ride a rollercoaster. However, only people who are at least h
+
+inches can ride the rollercoaster.
+
+Vincent's height is v
+inches, Anthony's height is a inches, Rene's height is r inches, and Pierre's height is p
+
+inches.
+
+Vincent and his friends know that at most three of them can stand on top of each other to "form" a taller "person". The height of this "person" is the height of the three children combined.
+
+Can they choose a set of three people among themselves so that the "person" those three people form can ride the rollercoaster?
+Input
+
+The input consists of five lines.
+
+The first line contains a single integer v
+
+.
+
+The second line contains a single integer a
+
+.
+
+The third line contains a single integer r
+
+.
+
+The fourth line contains a single integer p
+
+.
+
+The fifth line contains a single integer h
+
+.
+Output
+
+Output a single line containing a single string which is WAW if they can choose a set of three people among themselves so that the "person" formed by those three people can ride the rollercoaster, or AWW if they cannot.
+Scoring
+
+12≤v,a,r,p,h≤150
+
+Subtask 1 (50 points):
+
+v=a=r=p
+
+Subtask 2 (50 points):
+
+No additional constraints. 
